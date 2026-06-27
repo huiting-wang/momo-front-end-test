@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-  modules: ['@pinia/nuxt'],
+  modules: ['@pinia/nuxt', '@nuxt/eslint'],
   css: ['~/assets/css/main.css'],
 
   app: {
@@ -19,15 +19,19 @@ export default defineNuxtConfig({
   /**
    * Rendering 策略（詳見 docs/ARCHITECTURE.md 第 3 節）
    * - 高 SEO 價值 / 首屏速度重要的頁面 -> SSR
-   * - 高即時性、高個人化、低 SEO 價值的頁面 -> CSR-only
    */
   routeRules: {
+    '/**': {
+      headers: {
+        // 防止 iframe 點擊挾持攻擊
+        'X-Frame-Options': 'DENY',
+        // 禁止任何來源的框架嵌入
+        'Content-Security-Policy': "frame-ancestors 'none'",
+      },
+    },
     '/': { ssr: true },
     '/search': { ssr: true },
     '/goods/**': { ssr: true },
-    '/discover': { ssr: false },
-    '/live': { ssr: false },
-    '/cart': { ssr: false },
   },
 
   typescript: {

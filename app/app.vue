@@ -7,14 +7,13 @@ const { data: categories } = await useAsyncData('global-categories', () =>
 <template>
   <div class="app-shell">
     <NuxtRouteAnnouncer />
-    <a href="#main-content" class="skip-to-content">跳到主要內容</a>
-    <AppHeader />
-    <CategoryNav v-if="categories" :categories="categories" />
+    <LayoutAppHeader />
+    <LayoutCategoryNav v-if="categories" :categories="categories" />
     <main id="main-content">
       <NuxtPage />
     </main>
-    <AppFooter />
-    <AppToast />
+    <LayoutAppFooter />
+    <CommonAppToast />
   </div>
 </template>
 

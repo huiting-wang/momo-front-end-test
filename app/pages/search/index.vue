@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { Product } from '~/composables/useMockApi'
+import type { Product } from '~/types/product'
 
 const route = useRoute()
 const router = useRouter()
@@ -11,7 +11,6 @@ const toast = useToast()
 const pageSize = 20
 
 // 用 query string 作為唯一資料來源，讓搜尋結果可被分享/重整後還原
-// （這也是為什麼這頁要 SSR：使用者常用分享連結直接進入結果頁）
 const query = computed(() => ({
   q: (route.query.q as string) || '',
   category: (route.query.category as string) || '',
@@ -27,9 +26,11 @@ watchEffect(() => {
 
 const { data: categories } = await useAsyncData('search-categories', () => api.getCategories())
 
-// 初次資料用 useAsyncData，SSR 時會在伺服器端先抓好；之後 query 變動時
-// （換頁、換排序）會在 client 端重新抓取並局部更新，不整頁刷新。
-const { data: result, status, refresh } = await useAsyncData(
+/**
+ * 初次資料用 useAsyncData，SSR 時會在伺服器端先抓好；之後 query 變動時
+ * （換頁、換排序）會在 client 端重新抓取並局部更新，不整頁刷新。
+ */
+const { data: result, status } = await useAsyncData(
   () => api.search({
     q: query.value.q,
     category: query.value.category,
@@ -66,7 +67,7 @@ useHead(() => ({
 
 <template>
   <div class="page-container search-page">
-    <Breadcrumb
+    <CommonBreadcrumb
       :items="[
         { label: '首頁', to: '/' },
         { label: query.q ? `搜尋：${query.q}` : '搜尋結果' },
@@ -125,9 +126,9 @@ useHead(() => ({
           </div>
         </div>
 
-        <SkeletonGrid v-if="isLoading" :count="10" />
+        <CommonSkeletonGrid v-if="isLoading" :count="10" />
 
-        <EmptyState v-else-if="!result?.items.length" />
+        <CommonEmptyState v-else-if="!result?.items.length" />
 
         <template v-else>
           <ProductGrid :products="result.items" @add-to-cart="handleAddToCart" />

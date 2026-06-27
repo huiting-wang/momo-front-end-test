@@ -1,7 +1,4 @@
-interface ToastState {
-  message: string
-  visible: boolean
-}
+import type { ToastState } from '~/types/toast'
 
 const state = reactive<ToastState>({ message: '', visible: false })
 let hideTimer: ReturnType<typeof setTimeout> | undefined

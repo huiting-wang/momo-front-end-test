@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { Product } from '~/composables/useMockApi'
+import type { Product } from '~/types/product'
 
 const route = useRoute()
 const api = useMockApi()
@@ -53,7 +53,7 @@ useHead(() => ({
 
 <template>
   <div v-if="product" class="page-container goods-page">
-    <Breadcrumb
+    <CommonBreadcrumb
       :items="[
         { label: '首頁', to: '/' },
         { label: product.category, to: `/search?category=${product.category}` },
@@ -63,7 +63,7 @@ useHead(() => ({
 
     <div class="goods-main">
       <div class="goods-image">
-        <img :src="imageUrl" :alt="product.title" width="480" height="480" />
+        <img :src="imageUrl" :alt="product.title" width="480" height="480" >
         <span v-if="discount" class="discount-badge">折扣 {{ discount }}%</span>
       </div>
 
@@ -71,7 +71,7 @@ useHead(() => ({
         <p v-if="product.brand" class="brand">{{ product.brand }}</p>
         <h1 class="title">{{ product.title }}</h1>
 
-        <RatingStars :rating="product.rating" :review-count="product.reviewCount" />
+        <ProductRatingStars :rating="product.rating" :review-count="product.reviewCount" />
 
         <div class="badges">
           <span v-for="b in product.badges" :key="b" class="badge">{{ b }}</span>
@@ -87,7 +87,7 @@ useHead(() => ({
         <p v-if="soldLabel" class="sold-count">{{ soldLabel }}</p>
 
         <div class="quantity-row">
-          <span class="qty-label" id="qty-label">數量</span>
+          <span id="qty-label" class="qty-label">數量</span>
           <div class="qty-stepper" role="group" aria-labelledby="qty-label">
             <button
               type="button"
@@ -106,7 +106,6 @@ useHead(() => ({
           <button class="btn-primary buy-btn" type="button" @click="handleAddToCart">
             加入購物車
           </button>
-          <NuxtLink to="/cart" class="btn-secondary">查看購物車</NuxtLink>
         </div>
 
         <div class="delivery-info">

@@ -1,77 +1,30 @@
 import productsData from '~/data/products.json'
 import categoriesData from '~/data/categories.json'
 import bannersData from '~/data/banners.json'
-import liveStreamsData from '~/data/liveStreams.json'
-
-export interface Product {
-  id: string
-  title: string
-  brand?: string
-  price: number
-  originalPrice?: number | null
-  discountTag?: string | null
-  badges: string[]
-  imageSeed: string
-  rating: number
-  reviewCount: number
-  soldCount?: number | null
-  category: string
-  tags: string[]
-}
-
-export interface Category {
-  id: string
-  name: string
-  icon: string
-}
-
-export interface Banner {
-  id: string
-  title: string
-  subtitle: string
-  colorFrom: string
-  colorTo: string
-  linkCategory: string
-}
-
-export interface LiveStream {
-  id: string
-  host: string
-  title: string
-  viewerCount: number
-  category: string
-  isLive: boolean
-  colorFrom: string
-  colorTo: string
-  featuredProductIds: string[]
-}
+import flashSaleData from '~/data/flashSale.json'
+import type {
+  Product,
+  Category,
+  Banner,
+  FlashSale,
+  SearchParams,
+  SearchResult,
+} from '~/types/product'
 
 const allProducts = productsData as Product[]
 const allCategories = categoriesData as Category[]
 const allBanners = bannersData as Banner[]
-const allLiveStreams = liveStreamsData as LiveStream[]
+const flashSale = flashSaleData as FlashSale
 
 /**
- * 模擬網路延遲，讓 loading/skeleton 狀態有意義可以被觀察到，
- * 也讓 SSR/CSR 差異在開發時更容易被肉眼驗證。
+ * 模擬網路延遲
+ *
+ * @remarks
+ *
+ * 讓 loading/skeleton 狀態有意義可以被觀察到，也讓 SSR/CSR 差異在開發時更容易被肉眼驗證。
  */
 function delay(ms = 150) {
   return new Promise((resolve) => setTimeout(resolve, ms))
-}
-
-export interface SearchParams {
-  q?: string
-  category?: string
-  sort?: 'default' | 'price-asc' | 'price-desc' | 'rating-desc' | 'sold-desc'
-  page?: number
-  pageSize?: number
-}
-
-export interface SearchResult {
-  items: Product[]
-  total: number
-  page: number
-  pageSize: number
 }
 
 /**
@@ -159,33 +112,75 @@ export function useMockApi() {
     return { items, total, page, pageSize }
   }
 
-  async function getDiscoverFeed(page = 1, pageSize = 12): Promise<Product[]> {
-    await delay(250)
-    // 探索頁刻意打散順序，模擬「個人化推薦」的隨機感
-    const shuffled = [...allProducts].sort((a, b) => {
-      const seedA = a.id.charCodeAt(1) + page
-      const seedB = b.id.charCodeAt(1) + page
-      return ((seedA * 17) % 7) - ((seedB * 17) % 7)
-    })
-    const start = (page - 1) * pageSize
-    return shuffled.slice(start, start + pageSize)
-  }
-
-  async function getLiveStreams(): Promise<LiveStream[]> {
-    await delay(150)
-    return allLiveStreams
-  }
-
-  async function getLiveStreamById(id: string): Promise<LiveStream | null> {
-    await delay(100)
-    return allLiveStreams.find((s) => s.id === id) ?? null
-  }
-
   async function getProductsByIds(ids: string[]): Promise<Product[]> {
     await delay(100)
     return ids
       .map((id) => allProducts.find((p) => p.id === id))
       .filter((p): p is Product => Boolean(p))
+  }
+
+
+  /**
+   * 降價：originalPrice 存在且高於 price 的商品，依折扣幅度排序，
+   *
+   * @remarks
+   * 折扣最深的排最前面
+   */
+  async function getDiscountedProducts(limit = 10): Promise<Product[]> {
+    await delay(120)
+    return allProducts
+      .filter((p) => p.originalPrice && p.originalPrice > p.price)
+      .sort((a, b) => {
+        const discountA = a.originalPrice ? 1 - a.price / a.originalPrice : 0
+        const discountB = b.originalPrice ? 1 - b.price / b.originalPrice : 0
+        return discountB - discountA
+      })
+      .slice(0, limit)
+  }
+
+  /**
+   * 今日促銷：依 discountTag 標記篩選（活動驅動，而非價格驅動）
+   */
+  async function getTodayPromotions(limit = 10): Promise<Product[]> {
+    await delay(120)
+    return allProducts.filter((p) => Boolean(p.discountTag)).slice(0, limit)
+  }
+
+  /**
+   * 限時搶購
+   */
+  async function getFlashSale(): Promise<{ sale: FlashSale; products: Product[]; endsAt: number }> {
+    await delay(150)
+    const products = await getProductsByIds(flashSale.productIds)
+    return {
+      sale: flashSale,
+      products,
+      endsAt: Date.now() + flashSale.endsInSeconds * 1000,
+    }
+  }
+
+  /**
+   * 會員訂閱專屬商品
+   */
+  async function getMemberExclusive(limit = 10): Promise<Product[]> {
+    await delay(120)
+    return allProducts
+      .filter((p) => p.badges.some((b) => b.includes('獨家') || b.includes('自營')))
+      .slice(0, limit)
+  }
+
+  /**
+   * 推薦商品：跨分類混合取樣，模擬「綜合推薦」而非單一分類陳列
+   */
+  async function getRecommended(limit = 10): Promise<Product[]> {
+    await delay(150)
+    const step = Math.max(1, Math.floor(allProducts.length / limit))
+    const picked: Product[] = []
+    for (let i = 0; i < allProducts.length && picked.length < limit; i += step) {
+      const product = allProducts[i]
+      if (product) picked.push(product)
+    }
+    return picked
   }
 
   return {
@@ -196,9 +191,11 @@ export function useMockApi() {
     getProductsByCategory,
     getFeaturedCarousel,
     search,
-    getDiscoverFeed,
-    getLiveStreams,
-    getLiveStreamById,
     getProductsByIds,
+    getDiscountedProducts,
+    getTodayPromotions,
+    getFlashSale,
+    getMemberExclusive,
+    getRecommended,
   }
 }

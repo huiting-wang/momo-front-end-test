@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { Product } from '~/composables/useMockApi'
+import type { Product } from '~/types/product'
 
 const props = defineProps<{
   product: Product
@@ -37,7 +37,7 @@ function handleAddToCart(e: Event) {
         <span v-for="b in product.badges.slice(0, 2)" :key="b" class="badge">{{ b }}</span>
       </div>
 
-      <RatingStars :rating="product.rating" :review-count="product.reviewCount" />
+      <ProductRatingStars :rating="product.rating" :review-count="product.reviewCount" />
 
       <div class="price-row">
         <span class="price">$ {{ formatPrice(product.price) }}</span>

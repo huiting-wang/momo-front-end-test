@@ -1,10 +1,6 @@
 import { defineStore } from 'pinia'
-import type { Product } from '~/composables/useMockApi'
-
-export interface CartItem {
-  product: Product
-  quantity: number
-}
+import type { Product } from '~/types/product'
+import type { CartItem } from '~/types/cart'
 
 export const useCartStore = defineStore('cart', {
   state: () => ({

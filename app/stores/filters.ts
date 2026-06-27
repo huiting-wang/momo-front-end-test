@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia'
-import type { SearchParams } from '~/composables/useMockApi'
+import type { SearchParams } from '~/types/product'
 
 export const useFiltersStore = defineStore('filters', {
   state: () => ({

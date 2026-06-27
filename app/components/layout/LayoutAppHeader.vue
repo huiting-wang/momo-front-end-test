@@ -25,19 +25,17 @@ function handleSearch() {
         <button type="submit" aria-label="搜尋">🔍</button>
       </form>
 
-      <nav class="header-actions" aria-label="快速連結">
-        <NuxtLink to="/live" class="action-link">
-          <span aria-hidden="true">🔴</span> 直播
-        </NuxtLink>
-        <NuxtLink to="/discover" class="action-link">
-          <span aria-hidden="true">✨</span> 探索
-        </NuxtLink>
-        <NuxtLink to="/cart" class="action-link cart-link">
+      <nav class="header-actions" aria-label="快速資訊">
+        <span
+          class="action-link cart-status"
+          role="status"
+          :aria-label="`購物車內有 ${cartStore.totalCount} 件商品`"
+        >
           <span aria-hidden="true">🛒</span> 購物車
-          <span v-if="cartStore.totalCount > 0" class="cart-badge">{{
+          <span v-if="cartStore.totalCount > 0" class="cart-badge" aria-hidden="true">{{
             cartStore.totalCount
           }}</span>
-        </NuxtLink>
+        </span>
       </nav>
     </div>
   </header>
@@ -114,8 +112,8 @@ function handleSearch() {
   position: relative;
   white-space: nowrap;
 }
-.action-link:hover {
-  opacity: 0.85;
+.cart-status {
+  cursor: default;
 }
 .cart-badge {
   position: absolute;

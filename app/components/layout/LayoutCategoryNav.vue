@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { Category } from '~/composables/useMockApi'
+import type { Category } from '~/types/product'
 
 defineProps<{
   categories: Category[]
