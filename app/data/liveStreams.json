@@ -1,0 +1,57 @@
+[
+  {
+    "id": "live1",
+    "host": "momo美妝研究室",
+    "title": "秋冬保養品大集合｜現場下單再折100",
+    "viewerCount": 1243,
+    "category": "beauty",
+    "isLive": true,
+    "colorFrom": "#d6336c",
+    "colorTo": "#ff8fab",
+    "featuredProductIds": ["M00015", "M00022", "M00031"]
+  },
+  {
+    "id": "live2",
+    "host": "3C開箱站",
+    "title": "新機開箱實測｜筆電耳機限時加碼",
+    "viewerCount": 856,
+    "category": "digital",
+    "isLive": true,
+    "colorFrom": "#1864ab",
+    "colorTo": "#4dabf7",
+    "featuredProductIds": ["M00057", "M00061", "M00070"]
+  },
+  {
+    "id": "live3",
+    "host": "momo生活選物",
+    "title": "居家收納神器一鍵下單",
+    "viewerCount": 432,
+    "category": "home-living",
+    "isLive": true,
+    "colorFrom": "#2b8a3e",
+    "colorTo": "#8ce99a",
+    "featuredProductIds": ["M00085", "M00090", "M00093"]
+  },
+  {
+    "id": "live4",
+    "host": "毛孩好物社",
+    "title": "貓狗用品開團中｜滿千免運",
+    "viewerCount": 198,
+    "category": "pets",
+    "isLive": false,
+    "colorFrom": "#9c6644",
+    "colorTo": "#d4a373",
+    "featuredProductIds": ["M00141", "M00145", "M00150"]
+  },
+  {
+    "id": "live5",
+    "host": "運動嚴選",
+    "title": "慢跑鞋款試穿分享",
+    "viewerCount": 0,
+    "category": "sports",
+    "isLive": false,
+    "colorFrom": "#e8590c",
+    "colorTo": "#ffa94d",
+    "featuredProductIds": ["M00120", "M00122", "M00128"]
+  }
+]

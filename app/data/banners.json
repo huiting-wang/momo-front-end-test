@@ -1,0 +1,34 @@
+[
+  {
+    "id": "b1",
+    "title": "夏日購物節",
+    "subtitle": "全館下殺最低3折起",
+    "colorFrom": "#ff2d78",
+    "colorTo": "#ff7eb3",
+    "linkCategory": "fashion"
+  },
+  {
+    "id": "b2",
+    "title": "3C數位週",
+    "subtitle": "筆電平板享分期0利率",
+    "colorFrom": "#1f2a52",
+    "colorTo": "#3b5bdb",
+    "linkCategory": "digital"
+  },
+  {
+    "id": "b3",
+    "title": "美妝保養祭",
+    "subtitle": "買滿2件再折500",
+    "colorFrom": "#c2185b",
+    "colorTo": "#f06292",
+    "linkCategory": "beauty"
+  },
+  {
+    "id": "b4",
+    "title": "生鮮食品月",
+    "subtitle": "冷凍美食宅配到家",
+    "colorFrom": "#e65100",
+    "colorTo": "#ffb74d",
+    "linkCategory": "food"
+  }
+]

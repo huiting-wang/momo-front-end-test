@@ -1,0 +1,2931 @@
+[
+  {
+    "id": "M00001",
+    "title": "BRUNO 變頻冷暖氣 1級能效",
+    "brand": "BRUNO",
+    "price": 199,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "新品上市"
+    ],
+    "imageSeed": "home-appliance-0",
+    "rating": 4.0,
+    "reviewCount": 422,
+    "soldCount": 8945,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "BRUNO"
+    ]
+  },
+  {
+    "id": "M00002",
+    "title": "Panasonic 多功能調理機 果汁機",
+    "brand": "Panasonic",
+    "price": 5990,
+    "originalPrice": 7141,
+    "discountTag": "限時優惠",
+    "badges": [
+      "免運"
+    ],
+    "imageSeed": "home-appliance-1",
+    "rating": 4.5,
+    "reviewCount": 2301,
+    "soldCount": 8938,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "Panasonic"
+    ]
+  },
+  {
+    "id": "M00003",
+    "title": "SHARP夏普 多功能調理機 果汁機",
+    "brand": "SHARP夏普",
+    "price": 1590,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "滿千折百"
+    ],
+    "imageSeed": "home-appliance-2",
+    "rating": 4.6,
+    "reviewCount": 1396,
+    "soldCount": 3537,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "SHARP夏普"
+    ]
+  },
+  {
+    "id": "M00004",
+    "title": "Dyson 變頻冷暖氣 1級能效",
+    "brand": "Dyson",
+    "price": 399,
+    "originalPrice": 523,
+    "discountTag": "限時優惠",
+    "badges": [
+      "出貨快",
+      "買一送一"
+    ],
+    "imageSeed": "home-appliance-3",
+    "rating": 4.8,
+    "reviewCount": 1884,
+    "soldCount": 6211,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "Dyson"
+    ]
+  },
+  {
+    "id": "M00005",
+    "title": "Dyson 多功能調理機 果汁機",
+    "brand": "Dyson",
+    "price": 2990,
+    "originalPrice": 4386,
+    "discountTag": null,
+    "badges": [
+      "新品上市"
+    ],
+    "imageSeed": "home-appliance-4",
+    "rating": 4.7,
+    "reviewCount": 329,
+    "soldCount": null,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "Dyson"
+    ]
+  },
+  {
+    "id": "M00006",
+    "title": "SHARP夏普 除濕機 16L 一級節能",
+    "brand": "SHARP夏普",
+    "price": 7990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "滿千折百",
+      "momo自營"
+    ],
+    "imageSeed": "home-appliance-5",
+    "rating": 4.2,
+    "reviewCount": 2748,
+    "soldCount": 1179,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "SHARP夏普"
+    ]
+  },
+  {
+    "id": "M00007",
+    "title": "國際牌 氣炸烤箱 12L 大容量",
+    "brand": "國際牌",
+    "price": 15900,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "口碑熱銷"
+    ],
+    "imageSeed": "home-appliance-6",
+    "rating": 4.3,
+    "reviewCount": 2624,
+    "soldCount": 3608,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "國際牌"
+    ]
+  },
+  {
+    "id": "M00008",
+    "title": "BRUNO 除濕機 16L 一級節能",
+    "brand": "BRUNO",
+    "price": 299,
+    "originalPrice": 348,
+    "discountTag": "限時優惠",
+    "badges": [
+      "限時優惠",
+      "買一送一"
+    ],
+    "imageSeed": "home-appliance-7",
+    "rating": 3.9,
+    "reviewCount": 2326,
+    "soldCount": null,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "BRUNO"
+    ]
+  },
+  {
+    "id": "M00009",
+    "title": "BRUNO 直立式洗衣機 12KG",
+    "brand": "BRUNO",
+    "price": 3990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "口碑熱銷",
+      "滿千折百",
+      "買一送一"
+    ],
+    "imageSeed": "home-appliance-8",
+    "rating": 4.0,
+    "reviewCount": 2302,
+    "soldCount": 9587,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "BRUNO"
+    ]
+  },
+  {
+    "id": "M00010",
+    "title": "SHARP夏普 多功能調理機 果汁機",
+    "brand": "SHARP夏普",
+    "price": 3990,
+    "originalPrice": 6379,
+    "discountTag": "限時優惠",
+    "badges": [
+      "免運"
+    ],
+    "imageSeed": "home-appliance-9",
+    "rating": 4.4,
+    "reviewCount": 195,
+    "soldCount": null,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "SHARP夏普"
+    ]
+  },
+  {
+    "id": "M00011",
+    "title": "Tatung大同 直立式洗衣機 12KG",
+    "brand": "Tatung大同",
+    "price": 399,
+    "originalPrice": 565,
+    "discountTag": null,
+    "badges": [
+      "免運",
+      "買一送一"
+    ],
+    "imageSeed": "home-appliance-10",
+    "rating": 5.0,
+    "reviewCount": 50,
+    "soldCount": 1886,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "Tatung大同"
+    ]
+  },
+  {
+    "id": "M00012",
+    "title": "國際牌 除濕機 16L 一級節能",
+    "brand": "國際牌",
+    "price": 2490,
+    "originalPrice": 3350,
+    "discountTag": null,
+    "badges": [
+      "24h到貨",
+      "買一送一"
+    ],
+    "imageSeed": "home-appliance-11",
+    "rating": 5.0,
+    "reviewCount": 734,
+    "soldCount": 1753,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "國際牌"
+    ]
+  },
+  {
+    "id": "M00013",
+    "title": "Dyson 多功能調理機 果汁機",
+    "brand": "Dyson",
+    "price": 990,
+    "originalPrice": 1478,
+    "discountTag": null,
+    "badges": [
+      "免運",
+      "24h到貨",
+      "momo自營"
+    ],
+    "imageSeed": "home-appliance-12",
+    "rating": 4.4,
+    "reviewCount": 461,
+    "soldCount": null,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "Dyson"
+    ]
+  },
+  {
+    "id": "M00014",
+    "title": "Dyson 氣炸烤箱 12L 大容量",
+    "brand": "Dyson",
+    "price": 299,
+    "originalPrice": 420,
+    "discountTag": null,
+    "badges": [
+      "momoshop獨家"
+    ],
+    "imageSeed": "home-appliance-13",
+    "rating": 4.7,
+    "reviewCount": 286,
+    "soldCount": null,
+    "category": "home-appliance",
+    "tags": [
+      "home-appliance",
+      "Dyson"
+    ]
+  },
+  {
+    "id": "M00015",
+    "title": "SK-II 抗皺精華霜 50g",
+    "brand": "SK-II",
+    "price": 9990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "買一送一"
+    ],
+    "imageSeed": "beauty-0",
+    "rating": 4.4,
+    "reviewCount": 2487,
+    "soldCount": 3480,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "SK-II"
+    ]
+  },
+  {
+    "id": "M00016",
+    "title": "innisfree 抗皺精華霜 50g",
+    "brand": "innisfree",
+    "price": 1990,
+    "originalPrice": 2889,
+    "discountTag": "限時優惠",
+    "badges": [
+      "口碑熱銷",
+      "免運"
+    ],
+    "imageSeed": "beauty-1",
+    "rating": 4.3,
+    "reviewCount": 1018,
+    "soldCount": 5549,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "innisfree"
+    ]
+  },
+  {
+    "id": "M00017",
+    "title": "innisfree 抗皺精華霜 50g",
+    "brand": "innisfree",
+    "price": 21900,
+    "originalPrice": 25884,
+    "discountTag": "限時優惠",
+    "badges": [
+      "24h到貨",
+      "新品上市",
+      "momoshop獨家"
+    ],
+    "imageSeed": "beauty-2",
+    "rating": 4.9,
+    "reviewCount": 1356,
+    "soldCount": 3909,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "innisfree"
+    ]
+  },
+  {
+    "id": "M00018",
+    "title": "MAC 抗皺精華霜 50g",
+    "brand": "MAC",
+    "price": 15900,
+    "originalPrice": 24978,
+    "discountTag": null,
+    "badges": [
+      "出貨快",
+      "口碑熱銷",
+      "新品上市"
+    ],
+    "imageSeed": "beauty-3",
+    "rating": 4.7,
+    "reviewCount": 1670,
+    "soldCount": 1598,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "MAC"
+    ]
+  },
+  {
+    "id": "M00019",
+    "title": "蘭蔥 玫瑰修護面膜 10入",
+    "brand": "蘭蔥",
+    "price": 5990,
+    "originalPrice": 8853,
+    "discountTag": null,
+    "badges": [
+      "momoshop獨家",
+      "24h到貨",
+      "限時優惠"
+    ],
+    "imageSeed": "beauty-4",
+    "rating": 4.7,
+    "reviewCount": 450,
+    "soldCount": 3126,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "蘭蔥"
+    ]
+  },
+  {
+    "id": "M00020",
+    "title": "SK-II 玫瑰修護面膜 10入",
+    "brand": "SK-II",
+    "price": 790,
+    "originalPrice": 997,
+    "discountTag": null,
+    "badges": [
+      "口碑熱銷"
+    ],
+    "imageSeed": "beauty-5",
+    "rating": 4.8,
+    "reviewCount": 2257,
+    "soldCount": 8866,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "SK-II"
+    ]
+  },
+  {
+    "id": "M00021",
+    "title": "雪肌精 抗皺精華霜 50g",
+    "brand": "雪肌精",
+    "price": 790,
+    "originalPrice": 1079,
+    "discountTag": "限時優惠",
+    "badges": [
+      "24h到貨",
+      "滿千折百"
+    ],
+    "imageSeed": "beauty-6",
+    "rating": 4.3,
+    "reviewCount": 1602,
+    "soldCount": 7464,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "雪肌精"
+    ]
+  },
+  {
+    "id": "M00022",
+    "title": "資生堂 持久遮瑕氣墊粉餅",
+    "brand": "資生堂",
+    "price": 9990,
+    "originalPrice": 12822,
+    "discountTag": "限時優惠",
+    "badges": [
+      "出貨快"
+    ],
+    "imageSeed": "beauty-7",
+    "rating": 4.7,
+    "reviewCount": 252,
+    "soldCount": null,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "資生堂"
+    ]
+  },
+  {
+    "id": "M00023",
+    "title": "innisfree 玫瑰修護面膜 10入",
+    "brand": "innisfree",
+    "price": 12900,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "滿千折百",
+      "24h到貨",
+      "momoshop獨家"
+    ],
+    "imageSeed": "beauty-8",
+    "rating": 4.8,
+    "reviewCount": 283,
+    "soldCount": 3863,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "innisfree"
+    ]
+  },
+  {
+    "id": "M00024",
+    "title": "MAC 高保濕精華液 30ml",
+    "brand": "MAC",
+    "price": 21900,
+    "originalPrice": 31043,
+    "discountTag": "限時優惠",
+    "badges": [
+      "momoshop獨家",
+      "限時優惠",
+      "momo自營"
+    ],
+    "imageSeed": "beauty-9",
+    "rating": 4.9,
+    "reviewCount": 839,
+    "soldCount": 5157,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "MAC"
+    ]
+  },
+  {
+    "id": "M00025",
+    "title": "MAC 抗皺精華霜 50g",
+    "brand": "MAC",
+    "price": 1990,
+    "originalPrice": 3120,
+    "discountTag": "限時優惠",
+    "badges": [
+      "24h到貨"
+    ],
+    "imageSeed": "beauty-10",
+    "rating": 4.3,
+    "reviewCount": 2309,
+    "soldCount": null,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "MAC"
+    ]
+  },
+  {
+    "id": "M00026",
+    "title": "SK-II 持久遮瑕氣墊粉餅",
+    "brand": "SK-II",
+    "price": 1590,
+    "originalPrice": 2078,
+    "discountTag": null,
+    "badges": [
+      "新品上市"
+    ],
+    "imageSeed": "beauty-11",
+    "rating": 4.2,
+    "reviewCount": 649,
+    "soldCount": 8910,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "SK-II"
+    ]
+  },
+  {
+    "id": "M00027",
+    "title": "innisfree 持久遮瑕氣墊粉餅",
+    "brand": "innisfree",
+    "price": 199,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "買一送一",
+      "momoshop獨家",
+      "滿千折百"
+    ],
+    "imageSeed": "beauty-12",
+    "rating": 4.1,
+    "reviewCount": 441,
+    "soldCount": null,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "innisfree"
+    ]
+  },
+  {
+    "id": "M00028",
+    "title": "SK-II 控油潔顏慕斯",
+    "brand": "SK-II",
+    "price": 1990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "momo自營",
+      "新品上市",
+      "買一送一"
+    ],
+    "imageSeed": "beauty-13",
+    "rating": 4.4,
+    "reviewCount": 1031,
+    "soldCount": null,
+    "category": "beauty",
+    "tags": [
+      "beauty",
+      "SK-II"
+    ]
+  },
+  {
+    "id": "M00029",
+    "title": "桂格 即食雞胸肉 5包組",
+    "brand": "桂格",
+    "price": 5990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "24h到貨"
+    ],
+    "imageSeed": "food-0",
+    "rating": 4.2,
+    "reviewCount": 538,
+    "soldCount": 4301,
+    "category": "food",
+    "tags": [
+      "food",
+      "桂格"
+    ]
+  },
+  {
+    "id": "M00030",
+    "title": "義美 精選掛耳咖啡 10入",
+    "brand": "義美",
+    "price": 15900,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "24h到貨",
+      "momoshop獨家",
+      "免運"
+    ],
+    "imageSeed": "food-1",
+    "rating": 4.9,
+    "reviewCount": 613,
+    "soldCount": 6059,
+    "category": "food",
+    "tags": [
+      "food",
+      "義美"
+    ]
+  },
+  {
+    "id": "M00031",
+    "title": "中祥食品 養生堅果零食罐",
+    "brand": "中祥食品",
+    "price": 599,
+    "originalPrice": 700,
+    "discountTag": null,
+    "badges": [
+      "24h到貨",
+      "momo自營"
+    ],
+    "imageSeed": "food-2",
+    "rating": 4.1,
+    "reviewCount": 1025,
+    "soldCount": 5804,
+    "category": "food",
+    "tags": [
+      "food",
+      "中祥食品"
+    ]
+  },
+  {
+    "id": "M00032",
+    "title": "famous house 養生堅果零食罐",
+    "brand": "famous house",
+    "price": 599,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "滿千折百"
+    ],
+    "imageSeed": "food-3",
+    "rating": 5.0,
+    "reviewCount": 728,
+    "soldCount": null,
+    "category": "food",
+    "tags": [
+      "food",
+      "famous house"
+    ]
+  },
+  {
+    "id": "M00033",
+    "title": "桂格 濃郁巧克力餅乾禮盒",
+    "brand": "桂格",
+    "price": 2490,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "新品上市",
+      "買一送一"
+    ],
+    "imageSeed": "food-4",
+    "rating": 4.0,
+    "reviewCount": 445,
+    "soldCount": 644,
+    "category": "food",
+    "tags": [
+      "food",
+      "桂格"
+    ]
+  },
+  {
+    "id": "M00034",
+    "title": "famous house 濃郁巧克力餅乾禮盒",
+    "brand": "famous house",
+    "price": 990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "momo自營",
+      "買一送一"
+    ],
+    "imageSeed": "food-5",
+    "rating": 4.8,
+    "reviewCount": 935,
+    "soldCount": 3174,
+    "category": "food",
+    "tags": [
+      "food",
+      "famous house"
+    ]
+  },
+  {
+    "id": "M00035",
+    "title": "famous house 義式燉飯調理包",
+    "brand": "famous house",
+    "price": 1590,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "momo自營",
+      "免運"
+    ],
+    "imageSeed": "food-6",
+    "rating": 4.3,
+    "reviewCount": 2199,
+    "soldCount": 462,
+    "category": "food",
+    "tags": [
+      "food",
+      "famous house"
+    ]
+  },
+  {
+    "id": "M00036",
+    "title": "桂格 義式燉飯調理包",
+    "brand": "桂格",
+    "price": 790,
+    "originalPrice": 1258,
+    "discountTag": "限時優惠",
+    "badges": [
+      "momoshop獨家"
+    ],
+    "imageSeed": "food-7",
+    "rating": 4.5,
+    "reviewCount": 1418,
+    "soldCount": null,
+    "category": "food",
+    "tags": [
+      "food",
+      "桂格"
+    ]
+  },
+  {
+    "id": "M00037",
+    "title": "中祥食品 養生堅果零食罐",
+    "brand": "中祥食品",
+    "price": 490,
+    "originalPrice": 690,
+    "discountTag": "限時優惠",
+    "badges": [
+      "24h到貨",
+      "限時優惠"
+    ],
+    "imageSeed": "food-8",
+    "rating": 3.8,
+    "reviewCount": 2208,
+    "soldCount": 3238,
+    "category": "food",
+    "tags": [
+      "food",
+      "中祥食品"
+    ]
+  },
+  {
+    "id": "M00038",
+    "title": "桂格 義式燉飯調理包",
+    "brand": "桂格",
+    "price": 2490,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "買一送一"
+    ],
+    "imageSeed": "food-9",
+    "rating": 4.4,
+    "reviewCount": 2734,
+    "soldCount": 6602,
+    "category": "food",
+    "tags": [
+      "food",
+      "桂格"
+    ]
+  },
+  {
+    "id": "M00039",
+    "title": "薇趣野 義式燉飯調理包",
+    "brand": "薇趣野",
+    "price": 15900,
+    "originalPrice": 21293,
+    "discountTag": "限時優惠",
+    "badges": [
+      "滿千折百",
+      "買一送一"
+    ],
+    "imageSeed": "food-10",
+    "rating": 4.3,
+    "reviewCount": 4,
+    "soldCount": 3453,
+    "category": "food",
+    "tags": [
+      "food",
+      "薇趣野"
+    ]
+  },
+  {
+    "id": "M00040",
+    "title": "中祥食品 養生堅果零食罐",
+    "brand": "中祥食品",
+    "price": 2490,
+    "originalPrice": 3358,
+    "discountTag": null,
+    "badges": [
+      "免運"
+    ],
+    "imageSeed": "food-11",
+    "rating": 4.4,
+    "reviewCount": 698,
+    "soldCount": 4659,
+    "category": "food",
+    "tags": [
+      "food",
+      "中祥食品"
+    ]
+  },
+  {
+    "id": "M00041",
+    "title": "薇趣野 養生堅果零食罐",
+    "brand": "薇趣野",
+    "price": 2490,
+    "originalPrice": 3930,
+    "discountTag": "限時優惠",
+    "badges": [
+      "買一送一"
+    ],
+    "imageSeed": "food-12",
+    "rating": 4.1,
+    "reviewCount": 818,
+    "soldCount": 767,
+    "category": "food",
+    "tags": [
+      "food",
+      "薇趣野"
+    ]
+  },
+  {
+    "id": "M00042",
+    "title": "famous house 養生堅果零食罐",
+    "brand": "famous house",
+    "price": 399,
+    "originalPrice": 617,
+    "discountTag": null,
+    "badges": [
+      "新品上市",
+      "限時優惠",
+      "口碑熱銷"
+    ],
+    "imageSeed": "food-13",
+    "rating": 4.3,
+    "reviewCount": 607,
+    "soldCount": 100,
+    "category": "food",
+    "tags": [
+      "food",
+      "famous house"
+    ]
+  },
+  {
+    "id": "M00043",
+    "title": "UNIQLO 寬版針織毛衣",
+    "brand": "UNIQLO",
+    "price": 1290,
+    "originalPrice": 2039,
+    "discountTag": null,
+    "badges": [
+      "口碑熱銷",
+      "24h到貨",
+      "新品上市"
+    ],
+    "imageSeed": "fashion-0",
+    "rating": 4.9,
+    "reviewCount": 500,
+    "soldCount": 7622,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "UNIQLO"
+    ]
+  },
+  {
+    "id": "M00044",
+    "title": "ZARA 經典帆布托特包",
+    "brand": "ZARA",
+    "price": 2490,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "出貨快",
+      "免運"
+    ],
+    "imageSeed": "fashion-1",
+    "rating": 4.3,
+    "reviewCount": 2247,
+    "soldCount": 2617,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "ZARA"
+    ]
+  },
+  {
+    "id": "M00045",
+    "title": "OB嚴選 寬版針織毛衣",
+    "brand": "OB嚴選",
+    "price": 7990,
+    "originalPrice": 10077,
+    "discountTag": "限時優惠",
+    "badges": [
+      "買一送一",
+      "免運",
+      "口碑熱銷"
+    ],
+    "imageSeed": "fashion-2",
+    "rating": 4.6,
+    "reviewCount": 1127,
+    "soldCount": 4691,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "OB嚴選"
+    ]
+  },
+  {
+    "id": "M00046",
+    "title": "Levi's 防風保暖外套",
+    "brand": "Levi's",
+    "price": 15900,
+    "originalPrice": 19364,
+    "discountTag": "限時優惠",
+    "badges": [
+      "滿千折百",
+      "新品上市"
+    ],
+    "imageSeed": "fashion-3",
+    "rating": 3.9,
+    "reviewCount": 1672,
+    "soldCount": 7643,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "Levi's"
+    ]
+  },
+  {
+    "id": "M00047",
+    "title": "NET 寬版針織毛衣",
+    "brand": "NET",
+    "price": 3990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "24h到貨",
+      "限時優惠",
+      "口碑熱銷"
+    ],
+    "imageSeed": "fashion-4",
+    "rating": 3.8,
+    "reviewCount": 1443,
+    "soldCount": 6399,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "NET"
+    ]
+  },
+  {
+    "id": "M00048",
+    "title": "GAP 經典帆布托特包",
+    "brand": "GAP",
+    "price": 15900,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "口碑熱銷"
+    ],
+    "imageSeed": "fashion-5",
+    "rating": 4.1,
+    "reviewCount": 1788,
+    "soldCount": 6381,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "GAP"
+    ]
+  },
+  {
+    "id": "M00049",
+    "title": "Levi's 寬版針織毛衣",
+    "brand": "Levi's",
+    "price": 790,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "出貨快"
+    ],
+    "imageSeed": "fashion-6",
+    "rating": 4.4,
+    "reviewCount": 1616,
+    "soldCount": 454,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "Levi's"
+    ]
+  },
+  {
+    "id": "M00050",
+    "title": "UNIQLO 寬版針織毛衣",
+    "brand": "UNIQLO",
+    "price": 599,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "24h到貨"
+    ],
+    "imageSeed": "fashion-7",
+    "rating": 4.1,
+    "reviewCount": 1343,
+    "soldCount": 5365,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "UNIQLO"
+    ]
+  },
+  {
+    "id": "M00051",
+    "title": "Levi's 寬版針織毛衣",
+    "brand": "Levi's",
+    "price": 1590,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "買一送一",
+      "momoshop獨家"
+    ],
+    "imageSeed": "fashion-8",
+    "rating": 4.4,
+    "reviewCount": 2212,
+    "soldCount": 5743,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "Levi's"
+    ]
+  },
+  {
+    "id": "M00052",
+    "title": "NET 修身牛仔長褲",
+    "brand": "NET",
+    "price": 299,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "新品上市"
+    ],
+    "imageSeed": "fashion-9",
+    "rating": 4.8,
+    "reviewCount": 2547,
+    "soldCount": 2078,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "NET"
+    ]
+  },
+  {
+    "id": "M00053",
+    "title": "GAP 修身牛仔長褲",
+    "brand": "GAP",
+    "price": 21900,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "買一送一",
+      "momo自營"
+    ],
+    "imageSeed": "fashion-10",
+    "rating": 4.0,
+    "reviewCount": 2490,
+    "soldCount": null,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "GAP"
+    ]
+  },
+  {
+    "id": "M00054",
+    "title": "OB嚴選 修身牛仔長褲",
+    "brand": "OB嚴選",
+    "price": 790,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "出貨快"
+    ],
+    "imageSeed": "fashion-11",
+    "rating": 3.8,
+    "reviewCount": 1280,
+    "soldCount": 6159,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "OB嚴選"
+    ]
+  },
+  {
+    "id": "M00055",
+    "title": "GAP 純棉印花短T",
+    "brand": "GAP",
+    "price": 399,
+    "originalPrice": 607,
+    "discountTag": null,
+    "badges": [
+      "momoshop獨家"
+    ],
+    "imageSeed": "fashion-12",
+    "rating": 4.6,
+    "reviewCount": 1238,
+    "soldCount": null,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "GAP"
+    ]
+  },
+  {
+    "id": "M00056",
+    "title": "UNIQLO 經典帆布托特包",
+    "brand": "UNIQLO",
+    "price": 299,
+    "originalPrice": 401,
+    "discountTag": null,
+    "badges": [
+      "momoshop獨家",
+      "免運"
+    ],
+    "imageSeed": "fashion-13",
+    "rating": 4.6,
+    "reviewCount": 54,
+    "soldCount": null,
+    "category": "fashion",
+    "tags": [
+      "fashion",
+      "UNIQLO"
+    ]
+  },
+  {
+    "id": "M00057",
+    "title": "Apple 機械式鍵盤 RGB背光",
+    "brand": "Apple",
+    "price": 2990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "滿千折百",
+      "限時優惠"
+    ],
+    "imageSeed": "digital-0",
+    "rating": 4.0,
+    "reviewCount": 2140,
+    "soldCount": null,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "Apple"
+    ]
+  },
+  {
+    "id": "M00058",
+    "title": "ASUS 全幅美肌相機 三鏡頭",
+    "brand": "ASUS",
+    "price": 15900,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "限時優惠",
+      "買一送一"
+    ],
+    "imageSeed": "digital-1",
+    "rating": 4.2,
+    "reviewCount": 1008,
+    "soldCount": null,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "ASUS"
+    ]
+  },
+  {
+    "id": "M00059",
+    "title": "Apple 4K 智慧顯示器 27吋",
+    "brand": "Apple",
+    "price": 7990,
+    "originalPrice": 10859,
+    "discountTag": "限時優惠",
+    "badges": [
+      "限時優惠",
+      "momo自營",
+      "24h到貨"
+    ],
+    "imageSeed": "digital-2",
+    "rating": 4.4,
+    "reviewCount": 1334,
+    "soldCount": 3485,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "Apple"
+    ]
+  },
+  {
+    "id": "M00060",
+    "title": "ASUS 4K 智慧顯示器 27吋",
+    "brand": "ASUS",
+    "price": 1590,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "買一送一",
+      "免運",
+      "24h到貨"
+    ],
+    "imageSeed": "digital-3",
+    "rating": 4.4,
+    "reviewCount": 785,
+    "soldCount": 6668,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "ASUS"
+    ]
+  },
+  {
+    "id": "M00061",
+    "title": "Sony 全幅美肌相機 三鏡頭",
+    "brand": "Sony",
+    "price": 1290,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "口碑熱銷",
+      "出貨快",
+      "24h到貨"
+    ],
+    "imageSeed": "digital-4",
+    "rating": 3.9,
+    "reviewCount": 910,
+    "soldCount": 3996,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "Sony"
+    ]
+  },
+  {
+    "id": "M00062",
+    "title": "ASUS 全幅美肌相機 三鏡頭",
+    "brand": "ASUS",
+    "price": 2990,
+    "originalPrice": 4152,
+    "discountTag": "限時優惠",
+    "badges": [
+      "免運",
+      "momo自營"
+    ],
+    "imageSeed": "digital-5",
+    "rating": 4.2,
+    "reviewCount": 1861,
+    "soldCount": 4128,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "ASUS"
+    ]
+  },
+  {
+    "id": "M00063",
+    "title": "Logitech 65W 快充行動電源 20000mAh",
+    "brand": "Logitech",
+    "price": 2490,
+    "originalPrice": 3463,
+    "discountTag": null,
+    "badges": [
+      "滿千折百",
+      "新品上市",
+      "免運"
+    ],
+    "imageSeed": "digital-6",
+    "rating": 4.7,
+    "reviewCount": 1135,
+    "soldCount": null,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "Logitech"
+    ]
+  },
+  {
+    "id": "M00064",
+    "title": "小米 全幅美肌相機 三鏡頭",
+    "brand": "小米",
+    "price": 1990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "買一送一"
+    ],
+    "imageSeed": "digital-7",
+    "rating": 4.1,
+    "reviewCount": 737,
+    "soldCount": 8761,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "小米"
+    ]
+  },
+  {
+    "id": "M00065",
+    "title": "Samsung 4K 智慧顯示器 27吋",
+    "brand": "Samsung",
+    "price": 299,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "買一送一",
+      "滿千折百",
+      "口碑熱銷"
+    ],
+    "imageSeed": "digital-8",
+    "rating": 3.9,
+    "reviewCount": 53,
+    "soldCount": 7700,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "Samsung"
+    ]
+  },
+  {
+    "id": "M00066",
+    "title": "Sony 機械式鍵盤 RGB背光",
+    "brand": "Sony",
+    "price": 2490,
+    "originalPrice": 2921,
+    "discountTag": "限時優惠",
+    "badges": [
+      "momoshop獨家",
+      "出貨快"
+    ],
+    "imageSeed": "digital-9",
+    "rating": 4.3,
+    "reviewCount": 306,
+    "soldCount": 888,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "Sony"
+    ]
+  },
+  {
+    "id": "M00067",
+    "title": "小米 4K 智慧顯示器 27吋",
+    "brand": "小米",
+    "price": 399,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "免運"
+    ],
+    "imageSeed": "digital-10",
+    "rating": 4.7,
+    "reviewCount": 2486,
+    "soldCount": 3707,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "小米"
+    ]
+  },
+  {
+    "id": "M00068",
+    "title": "小米 機械式鍵盤 RGB背光",
+    "brand": "小米",
+    "price": 7990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "出貨快",
+      "限時優惠"
+    ],
+    "imageSeed": "digital-11",
+    "rating": 4.2,
+    "reviewCount": 2546,
+    "soldCount": 1635,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "小米"
+    ]
+  },
+  {
+    "id": "M00069",
+    "title": "Samsung 65W 快充行動電源 20000mAh",
+    "brand": "Samsung",
+    "price": 1590,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "新品上市"
+    ],
+    "imageSeed": "digital-12",
+    "rating": 4.0,
+    "reviewCount": 310,
+    "soldCount": 6703,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "Samsung"
+    ]
+  },
+  {
+    "id": "M00070",
+    "title": "Sony 全幅美肌相機 三鏡頭",
+    "brand": "Sony",
+    "price": 9990,
+    "originalPrice": 12529,
+    "discountTag": null,
+    "badges": [
+      "買一送一",
+      "口碑熱銷",
+      "momoshop獨家"
+    ],
+    "imageSeed": "digital-13",
+    "rating": 4.6,
+    "reviewCount": 1086,
+    "soldCount": null,
+    "category": "digital",
+    "tags": [
+      "digital",
+      "Sony"
+    ]
+  },
+  {
+    "id": "M00071",
+    "title": "MUJI風 收納置物推車 三層",
+    "brand": "MUJI風",
+    "price": 5990,
+    "originalPrice": 7494,
+    "discountTag": null,
+    "badges": [
+      "買一送一"
+    ],
+    "imageSeed": "home-living-0",
+    "rating": 4.8,
+    "reviewCount": 295,
+    "soldCount": 5049,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "MUJI風"
+    ]
+  },
+  {
+    "id": "M00072",
+    "title": "北歐汕 record架 簡約風",
+    "brand": "北歐汕",
+    "price": 7990,
+    "originalPrice": 11664,
+    "discountTag": null,
+    "badges": [
+      "限時優惠",
+      "買一送一",
+      "口碑熱銷"
+    ],
+    "imageSeed": "home-living-1",
+    "rating": 4.3,
+    "reviewCount": 2452,
+    "soldCount": 7088,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "北歐汕"
+    ]
+  },
+  {
+    "id": "M00073",
+    "title": "北歐汕 record架 簡約風",
+    "brand": "北歐汕",
+    "price": 199,
+    "originalPrice": 314,
+    "discountTag": null,
+    "badges": [
+      "出貨快",
+      "24h到貨",
+      "買一送一"
+    ],
+    "imageSeed": "home-living-2",
+    "rating": 4.5,
+    "reviewCount": 720,
+    "soldCount": 7255,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "北歐汕"
+    ]
+  },
+  {
+    "id": "M00074",
+    "title": "特力屋 記憶棉枕頭 二入組",
+    "brand": "特力屋",
+    "price": 5990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "momoshop獨家",
+      "口碑熱銷"
+    ],
+    "imageSeed": "home-living-3",
+    "rating": 4.2,
+    "reviewCount": 1368,
+    "soldCount": 1723,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "特力屋"
+    ]
+  },
+  {
+    "id": "M00075",
+    "title": "特力屋 record架 簡約風",
+    "brand": "特力屋",
+    "price": 5990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "限時優惠",
+      "免運"
+    ],
+    "imageSeed": "home-living-4",
+    "rating": 3.8,
+    "reviewCount": 363,
+    "soldCount": 5306,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "特力屋"
+    ]
+  },
+  {
+    "id": "M00076",
+    "title": "IKEA風 香氛擴香瓶 200ml",
+    "brand": "IKEA風",
+    "price": 12900,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "免運"
+    ],
+    "imageSeed": "home-living-5",
+    "rating": 4.4,
+    "reviewCount": 225,
+    "soldCount": 5937,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "IKEA風"
+    ]
+  },
+  {
+    "id": "M00077",
+    "title": "北歐汕 香氛擴香瓶 200ml",
+    "brand": "北歐汕",
+    "price": 7990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "買一送一"
+    ],
+    "imageSeed": "home-living-6",
+    "rating": 4.5,
+    "reviewCount": 1182,
+    "soldCount": 7951,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "北歐汕"
+    ]
+  },
+  {
+    "id": "M00078",
+    "title": "IKEA風 北歐風懶人沙發",
+    "brand": "IKEA風",
+    "price": 1290,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "免運",
+      "24h到貨"
+    ],
+    "imageSeed": "home-living-7",
+    "rating": 4.5,
+    "reviewCount": 384,
+    "soldCount": 1868,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "IKEA風"
+    ]
+  },
+  {
+    "id": "M00079",
+    "title": "宜得利 北歐風懶人沙發",
+    "brand": "宜得利",
+    "price": 599,
+    "originalPrice": 882,
+    "discountTag": "限時優惠",
+    "badges": [
+      "買一送一",
+      "限時優惠",
+      "口碑熱銷"
+    ],
+    "imageSeed": "home-living-8",
+    "rating": 5.0,
+    "reviewCount": 1001,
+    "soldCount": 2379,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "宜得利"
+    ]
+  },
+  {
+    "id": "M00080",
+    "title": "北歐汕 記憶棉枕頭 二入組",
+    "brand": "北歐汕",
+    "price": 599,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "限時優惠",
+      "momo自營"
+    ],
+    "imageSeed": "home-living-9",
+    "rating": 4.9,
+    "reviewCount": 2082,
+    "soldCount": 52,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "北歐汕"
+    ]
+  },
+  {
+    "id": "M00081",
+    "title": "NITORI record架 簡約風",
+    "brand": "NITORI",
+    "price": 21900,
+    "originalPrice": 31688,
+    "discountTag": "限時優惠",
+    "badges": [
+      "口碑熱銷"
+    ],
+    "imageSeed": "home-living-10",
+    "rating": 4.4,
+    "reviewCount": 1416,
+    "soldCount": 8913,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "NITORI"
+    ]
+  },
+  {
+    "id": "M00082",
+    "title": "NITORI 收納置物推車 三層",
+    "brand": "NITORI",
+    "price": 1290,
+    "originalPrice": 1619,
+    "discountTag": "限時優惠",
+    "badges": [
+      "24h到貨",
+      "momo自營"
+    ],
+    "imageSeed": "home-living-11",
+    "rating": 4.7,
+    "reviewCount": 1564,
+    "soldCount": 2502,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "NITORI"
+    ]
+  },
+  {
+    "id": "M00083",
+    "title": "IKEA風 收納置物推車 三層",
+    "brand": "IKEA風",
+    "price": 12900,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "momoshop獨家",
+      "口碑熱銷"
+    ],
+    "imageSeed": "home-living-12",
+    "rating": 3.9,
+    "reviewCount": 1874,
+    "soldCount": 2371,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "IKEA風"
+    ]
+  },
+  {
+    "id": "M00084",
+    "title": "宜得利 收納置物推車 三層",
+    "brand": "宜得利",
+    "price": 399,
+    "originalPrice": 632,
+    "discountTag": null,
+    "badges": [
+      "出貨快",
+      "限時優惠"
+    ],
+    "imageSeed": "home-living-13",
+    "rating": 4.6,
+    "reviewCount": 1348,
+    "soldCount": null,
+    "category": "home-living",
+    "tags": [
+      "home-living",
+      "宜得利"
+    ]
+  },
+  {
+    "id": "M00085",
+    "title": "幫寶適 防脹氣奶瓶 240ml",
+    "brand": "幫寶適",
+    "price": 9990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "出貨快"
+    ],
+    "imageSeed": "mom-baby-0",
+    "rating": 3.9,
+    "reviewCount": 2588,
+    "soldCount": 4718,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "幫寶適"
+    ]
+  },
+  {
+    "id": "M00086",
+    "title": "Combi 透氣紙尿布 XL 60入",
+    "brand": "Combi",
+    "price": 5990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "momoshop獨家",
+      "口碑熱銷",
+      "滿千折百"
+    ],
+    "imageSeed": "mom-baby-1",
+    "rating": 4.6,
+    "reviewCount": 121,
+    "soldCount": 929,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "Combi"
+    ]
+  },
+  {
+    "id": "M00087",
+    "title": "Pigeon貝親 防脹氣奶瓶 240ml",
+    "brand": "Pigeon貝親",
+    "price": 2990,
+    "originalPrice": 3767,
+    "discountTag": null,
+    "badges": [
+      "出貨快",
+      "滿千折百"
+    ],
+    "imageSeed": "mom-baby-2",
+    "rating": 4.0,
+    "reviewCount": 326,
+    "soldCount": 6277,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "Pigeon貝親"
+    ]
+  },
+  {
+    "id": "M00088",
+    "title": "Combi 兒童成長牛奶 24入",
+    "brand": "Combi",
+    "price": 21900,
+    "originalPrice": 29729,
+    "discountTag": null,
+    "badges": [
+      "口碑熱銷",
+      "買一送一"
+    ],
+    "imageSeed": "mom-baby-3",
+    "rating": 4.6,
+    "reviewCount": 1908,
+    "soldCount": null,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "Combi"
+    ]
+  },
+  {
+    "id": "M00089",
+    "title": "Combi 透氣紙尿布 XL 60入",
+    "brand": "Combi",
+    "price": 7990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "買一送一",
+      "限時優惠",
+      "出貨快"
+    ],
+    "imageSeed": "mom-baby-4",
+    "rating": 4.3,
+    "reviewCount": 1240,
+    "soldCount": 6312,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "Combi"
+    ]
+  },
+  {
+    "id": "M00090",
+    "title": "幫寶適 透氣紙尿布 XL 60入",
+    "brand": "幫寶適",
+    "price": 1290,
+    "originalPrice": 1691,
+    "discountTag": null,
+    "badges": [
+      "買一送一",
+      "24h到貨"
+    ],
+    "imageSeed": "mom-baby-5",
+    "rating": 5.0,
+    "reviewCount": 2699,
+    "soldCount": 142,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "幫寶適"
+    ]
+  },
+  {
+    "id": "M00091",
+    "title": "好奇 透氣紙尿布 XL 60入",
+    "brand": "好奇",
+    "price": 9990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "新品上市",
+      "momo自營"
+    ],
+    "imageSeed": "mom-baby-6",
+    "rating": 4.1,
+    "reviewCount": 781,
+    "soldCount": 2250,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "好奇"
+    ]
+  },
+  {
+    "id": "M00092",
+    "title": "好奇 透氣紙尿布 XL 60入",
+    "brand": "好奇",
+    "price": 299,
+    "originalPrice": 403,
+    "discountTag": "限時優惠",
+    "badges": [
+      "momo自營",
+      "滿千折百",
+      "momoshop獨家"
+    ],
+    "imageSeed": "mom-baby-7",
+    "rating": 4.9,
+    "reviewCount": 1341,
+    "soldCount": null,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "好奇"
+    ]
+  },
+  {
+    "id": "M00093",
+    "title": "Combi 嬰兒柔濕巾 80抽 12包",
+    "brand": "Combi",
+    "price": 2990,
+    "originalPrice": 4667,
+    "discountTag": "限時優惠",
+    "badges": [
+      "買一送一"
+    ],
+    "imageSeed": "mom-baby-8",
+    "rating": 4.9,
+    "reviewCount": 1976,
+    "soldCount": null,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "Combi"
+    ]
+  },
+  {
+    "id": "M00094",
+    "title": "Pigeon貝親 透氣紙尿布 XL 60入",
+    "brand": "Pigeon貝親",
+    "price": 7990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "新品上市"
+    ],
+    "imageSeed": "mom-baby-9",
+    "rating": 4.8,
+    "reviewCount": 2765,
+    "soldCount": null,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "Pigeon貝親"
+    ]
+  },
+  {
+    "id": "M00095",
+    "title": "奇哥 防脹氣奶瓶 240ml",
+    "brand": "奇哥",
+    "price": 399,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "買一送一"
+    ],
+    "imageSeed": "mom-baby-10",
+    "rating": 4.4,
+    "reviewCount": 1865,
+    "soldCount": 4305,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "奇哥"
+    ]
+  },
+  {
+    "id": "M00096",
+    "title": "奇哥 兒童成長牛奶 24入",
+    "brand": "奇哥",
+    "price": 2990,
+    "originalPrice": 3753,
+    "discountTag": null,
+    "badges": [
+      "出貨快"
+    ],
+    "imageSeed": "mom-baby-11",
+    "rating": 4.9,
+    "reviewCount": 2302,
+    "soldCount": 3636,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "奇哥"
+    ]
+  },
+  {
+    "id": "M00097",
+    "title": "好奇 兒童成長牛奶 24入",
+    "brand": "好奇",
+    "price": 1990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "滿千折百"
+    ],
+    "imageSeed": "mom-baby-12",
+    "rating": 3.9,
+    "reviewCount": 155,
+    "soldCount": 8081,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "好奇"
+    ]
+  },
+  {
+    "id": "M00098",
+    "title": "麗嬰房 透氣紙尿布 XL 60入",
+    "brand": "麗嬰房",
+    "price": 1290,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "限時優惠"
+    ],
+    "imageSeed": "mom-baby-13",
+    "rating": 4.3,
+    "reviewCount": 2749,
+    "soldCount": null,
+    "category": "mom-baby",
+    "tags": [
+      "mom-baby",
+      "麗嬰房"
+    ]
+  },
+  {
+    "id": "M00099",
+    "title": "PUMA 多功能健身手套",
+    "brand": "PUMA",
+    "price": 5990,
+    "originalPrice": 8847,
+    "discountTag": "限時優惠",
+    "badges": [
+      "momoshop獨家",
+      "口碑熱銷"
+    ],
+    "imageSeed": "sports-0",
+    "rating": 4.5,
+    "reviewCount": 1148,
+    "soldCount": 6080,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "PUMA"
+    ]
+  },
+  {
+    "id": "M00100",
+    "title": "New Balance 機能訓練短褲",
+    "brand": "New Balance",
+    "price": 2990,
+    "originalPrice": 4361,
+    "discountTag": null,
+    "badges": [
+      "momo自營",
+      "24h到貨",
+      "限時優惠"
+    ],
+    "imageSeed": "sports-1",
+    "rating": 4.1,
+    "reviewCount": 503,
+    "soldCount": null,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "New Balance"
+    ]
+  },
+  {
+    "id": "M00101",
+    "title": "NIKE 機能訓練短褲",
+    "brand": "NIKE",
+    "price": 199,
+    "originalPrice": 258,
+    "discountTag": null,
+    "badges": [
+      "出貨快"
+    ],
+    "imageSeed": "sports-2",
+    "rating": 4.0,
+    "reviewCount": 2273,
+    "soldCount": 3548,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "NIKE"
+    ]
+  },
+  {
+    "id": "M00102",
+    "title": "adidas 瑜珈墊 環保材質 6mm",
+    "brand": "adidas",
+    "price": 599,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "24h到貨",
+      "買一送一",
+      "滿千折百"
+    ],
+    "imageSeed": "sports-3",
+    "rating": 5.0,
+    "reviewCount": 2215,
+    "soldCount": 2868,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "adidas"
+    ]
+  },
+  {
+    "id": "M00103",
+    "title": "NIKE 輕量緩震跑鞋",
+    "brand": "NIKE",
+    "price": 599,
+    "originalPrice": 901,
+    "discountTag": null,
+    "badges": [
+      "出貨快"
+    ],
+    "imageSeed": "sports-4",
+    "rating": 4.2,
+    "reviewCount": 716,
+    "soldCount": 2086,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "NIKE"
+    ]
+  },
+  {
+    "id": "M00104",
+    "title": "迪卡儂 輕量緩震跑鞋",
+    "brand": "迪卡儂",
+    "price": 399,
+    "originalPrice": 598,
+    "discountTag": "限時優惠",
+    "badges": [
+      "出貨快",
+      "momoshop獨家",
+      "口碑熱銷"
+    ],
+    "imageSeed": "sports-5",
+    "rating": 4.4,
+    "reviewCount": 2522,
+    "soldCount": 8553,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "迪卡儂"
+    ]
+  },
+  {
+    "id": "M00105",
+    "title": "PUMA 輕量緩震跑鞋",
+    "brand": "PUMA",
+    "price": 299,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "限時優惠",
+      "momoshop獨家"
+    ],
+    "imageSeed": "sports-6",
+    "rating": 4.4,
+    "reviewCount": 1819,
+    "soldCount": 1333,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "PUMA"
+    ]
+  },
+  {
+    "id": "M00106",
+    "title": "Under Armour 多功能健身手套",
+    "brand": "Under Armour",
+    "price": 599,
+    "originalPrice": 762,
+    "discountTag": null,
+    "badges": [
+      "出貨快",
+      "免運",
+      "momo自營"
+    ],
+    "imageSeed": "sports-7",
+    "rating": 4.3,
+    "reviewCount": 2449,
+    "soldCount": 7443,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "Under Armour"
+    ]
+  },
+  {
+    "id": "M00107",
+    "title": "New Balance 輕量緩震跑鞋",
+    "brand": "New Balance",
+    "price": 490,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "免運",
+      "新品上市",
+      "限時優惠"
+    ],
+    "imageSeed": "sports-8",
+    "rating": 4.3,
+    "reviewCount": 938,
+    "soldCount": 7440,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "New Balance"
+    ]
+  },
+  {
+    "id": "M00108",
+    "title": "New Balance 排汗運動上衣",
+    "brand": "New Balance",
+    "price": 490,
+    "originalPrice": 632,
+    "discountTag": "限時優惠",
+    "badges": [
+      "momo自營",
+      "滿千折百"
+    ],
+    "imageSeed": "sports-9",
+    "rating": 4.6,
+    "reviewCount": 1945,
+    "soldCount": 1408,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "New Balance"
+    ]
+  },
+  {
+    "id": "M00109",
+    "title": "NIKE 瑜珈墊 環保材質 6mm",
+    "brand": "NIKE",
+    "price": 599,
+    "originalPrice": 846,
+    "discountTag": "限時優惠",
+    "badges": [
+      "免運",
+      "momo自營",
+      "momoshop獨家"
+    ],
+    "imageSeed": "sports-10",
+    "rating": 4.3,
+    "reviewCount": 2728,
+    "soldCount": null,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "NIKE"
+    ]
+  },
+  {
+    "id": "M00110",
+    "title": "PUMA 輕量緩震跑鞋",
+    "brand": "PUMA",
+    "price": 1990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "momoshop獨家",
+      "免運"
+    ],
+    "imageSeed": "sports-11",
+    "rating": 4.1,
+    "reviewCount": 2692,
+    "soldCount": 1783,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "PUMA"
+    ]
+  },
+  {
+    "id": "M00111",
+    "title": "Under Armour 多功能健身手套",
+    "brand": "Under Armour",
+    "price": 2990,
+    "originalPrice": 3813,
+    "discountTag": "限時優惠",
+    "badges": [
+      "限時優惠"
+    ],
+    "imageSeed": "sports-12",
+    "rating": 4.8,
+    "reviewCount": 2549,
+    "soldCount": 9131,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "Under Armour"
+    ]
+  },
+  {
+    "id": "M00112",
+    "title": "PUMA 瑜珈墊 環保材質 6mm",
+    "brand": "PUMA",
+    "price": 199,
+    "originalPrice": 291,
+    "discountTag": "限時優惠",
+    "badges": [
+      "momo自營",
+      "出貨快"
+    ],
+    "imageSeed": "sports-13",
+    "rating": 3.8,
+    "reviewCount": 589,
+    "soldCount": 6576,
+    "category": "sports",
+    "tags": [
+      "sports",
+      "PUMA"
+    ]
+  },
+  {
+    "id": "M00113",
+    "title": "九乘九 筆記本 手帳 A5",
+    "brand": "九乘九",
+    "price": 399,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "限時優惠"
+    ],
+    "imageSeed": "books-0",
+    "rating": 4.3,
+    "reviewCount": 1399,
+    "soldCount": 5115,
+    "category": "books",
+    "tags": [
+      "books",
+      "九乘九"
+    ]
+  },
+  {
+    "id": "M00114",
+    "title": "九乘九 兒童繪本套組",
+    "brand": "九乘九",
+    "price": 21900,
+    "originalPrice": 33890,
+    "discountTag": "限時優惠",
+    "badges": [
+      "滿千折百"
+    ],
+    "imageSeed": "books-1",
+    "rating": 4.7,
+    "reviewCount": 206,
+    "soldCount": 4468,
+    "category": "books",
+    "tags": [
+      "books",
+      "九乘九"
+    ]
+  },
+  {
+    "id": "M00115",
+    "title": "Moleskine風 文具收納筆袋",
+    "brand": "Moleskine風",
+    "price": 7990,
+    "originalPrice": 9963,
+    "discountTag": null,
+    "badges": [
+      "momoshop獨家",
+      "momo自營",
+      "限時優惠"
+    ],
+    "imageSeed": "books-2",
+    "rating": 3.9,
+    "reviewCount": 2780,
+    "soldCount": 7982,
+    "category": "books",
+    "tags": [
+      "books",
+      "Moleskine風"
+    ]
+  },
+  {
+    "id": "M00116",
+    "title": "PILOT 筆記本 手帳 A5",
+    "brand": "PILOT",
+    "price": 1290,
+    "originalPrice": 1831,
+    "discountTag": null,
+    "badges": [
+      "新品上市"
+    ],
+    "imageSeed": "books-3",
+    "rating": 4.2,
+    "reviewCount": 868,
+    "soldCount": null,
+    "category": "books",
+    "tags": [
+      "books",
+      "PILOT"
+    ]
+  },
+  {
+    "id": "M00117",
+    "title": "PILOT 兒童繪本套組",
+    "brand": "PILOT",
+    "price": 490,
+    "originalPrice": 728,
+    "discountTag": "限時優惠",
+    "badges": [
+      "滿千折百"
+    ],
+    "imageSeed": "books-4",
+    "rating": 4.3,
+    "reviewCount": 945,
+    "soldCount": 5812,
+    "category": "books",
+    "tags": [
+      "books",
+      "PILOT"
+    ]
+  },
+  {
+    "id": "M00118",
+    "title": "九乘九 筆記本 手帳 A5",
+    "brand": "九乘九",
+    "price": 5990,
+    "originalPrice": 9371,
+    "discountTag": "限時優惠",
+    "badges": [
+      "出貨快",
+      "限時優惠"
+    ],
+    "imageSeed": "books-5",
+    "rating": 4.5,
+    "reviewCount": 2625,
+    "soldCount": 1897,
+    "category": "books",
+    "tags": [
+      "books",
+      "九乘九"
+    ]
+  },
+  {
+    "id": "M00119",
+    "title": "PILOT 中性筆 0.5mm 5入",
+    "brand": "PILOT",
+    "price": 7990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "momoshop獨家",
+      "限時優惠"
+    ],
+    "imageSeed": "books-6",
+    "rating": 4.8,
+    "reviewCount": 999,
+    "soldCount": 6570,
+    "category": "books",
+    "tags": [
+      "books",
+      "PILOT"
+    ]
+  },
+  {
+    "id": "M00120",
+    "title": "誠品選書 筆記本 手帳 A5",
+    "brand": "誠品選書",
+    "price": 3990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "momo自營",
+      "新品上市",
+      "出貨快"
+    ],
+    "imageSeed": "books-7",
+    "rating": 4.7,
+    "reviewCount": 315,
+    "soldCount": 1878,
+    "category": "books",
+    "tags": [
+      "books",
+      "誠品選書"
+    ]
+  },
+  {
+    "id": "M00121",
+    "title": "誠品選書 桌曆 2027年度",
+    "brand": "誠品選書",
+    "price": 990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "momo自營",
+      "滿千折百"
+    ],
+    "imageSeed": "books-8",
+    "rating": 4.1,
+    "reviewCount": 602,
+    "soldCount": 2852,
+    "category": "books",
+    "tags": [
+      "books",
+      "誠品選書"
+    ]
+  },
+  {
+    "id": "M00122",
+    "title": "誠品選書 中性筆 0.5mm 5入",
+    "brand": "誠品選書",
+    "price": 399,
+    "originalPrice": 597,
+    "discountTag": null,
+    "badges": [
+      "口碑熱銷",
+      "出貨快"
+    ],
+    "imageSeed": "books-9",
+    "rating": 4.6,
+    "reviewCount": 2315,
+    "soldCount": 5305,
+    "category": "books",
+    "tags": [
+      "books",
+      "誠品選書"
+    ]
+  },
+  {
+    "id": "M00123",
+    "title": "九乘九 兒童繪本套組",
+    "brand": "九乘九",
+    "price": 599,
+    "originalPrice": 815,
+    "discountTag": "限時優惠",
+    "badges": [
+      "買一送一",
+      "出貨快",
+      "24h到貨"
+    ],
+    "imageSeed": "books-10",
+    "rating": 4.2,
+    "reviewCount": 306,
+    "soldCount": 7414,
+    "category": "books",
+    "tags": [
+      "books",
+      "九乘九"
+    ]
+  },
+  {
+    "id": "M00124",
+    "title": "PILOT 兒童繪本套組",
+    "brand": "PILOT",
+    "price": 399,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "出貨快"
+    ],
+    "imageSeed": "books-11",
+    "rating": 4.5,
+    "reviewCount": 1577,
+    "soldCount": 9091,
+    "category": "books",
+    "tags": [
+      "books",
+      "PILOT"
+    ]
+  },
+  {
+    "id": "M00125",
+    "title": "九乘九 筆記本 手帳 A5",
+    "brand": "九乘九",
+    "price": 7990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "新品上市",
+      "momo自營",
+      "口碑熱銷"
+    ],
+    "imageSeed": "books-12",
+    "rating": 4.4,
+    "reviewCount": 256,
+    "soldCount": 5636,
+    "category": "books",
+    "tags": [
+      "books",
+      "九乘九"
+    ]
+  },
+  {
+    "id": "M00126",
+    "title": "九乘九 筆記本 手帳 A5",
+    "brand": "九乘九",
+    "price": 12900,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "新品上市"
+    ],
+    "imageSeed": "books-13",
+    "rating": 4.6,
+    "reviewCount": 1802,
+    "soldCount": 2610,
+    "category": "books",
+    "tags": [
+      "books",
+      "九乘九"
+    ]
+  },
+  {
+    "id": "M00127",
+    "title": "Whiskas 寵物潔牙骨 10入",
+    "brand": "Whiskas",
+    "price": 1990,
+    "originalPrice": 2982,
+    "discountTag": "限時優惠",
+    "badges": [
+      "出貨快",
+      "24h到貨",
+      "momo自營"
+    ],
+    "imageSeed": "pets-0",
+    "rating": 3.9,
+    "reviewCount": 390,
+    "soldCount": 6343,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "Whiskas"
+    ]
+  },
+  {
+    "id": "M00128",
+    "title": "貓侍 寵物自動飲水機",
+    "brand": "貓侍",
+    "price": 599,
+    "originalPrice": 845,
+    "discountTag": "限時優惠",
+    "badges": [
+      "momo自營"
+    ],
+    "imageSeed": "pets-1",
+    "rating": 4.2,
+    "reviewCount": 2690,
+    "soldCount": 6431,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "貓侍"
+    ]
+  },
+  {
+    "id": "M00129",
+    "title": "貓侍 成犬專用飼料 5kg",
+    "brand": "貓侍",
+    "price": 1990,
+    "originalPrice": 2864,
+    "discountTag": "限時優惠",
+    "badges": [
+      "滿千折百",
+      "免運"
+    ],
+    "imageSeed": "pets-2",
+    "rating": 3.9,
+    "reviewCount": 2749,
+    "soldCount": 5938,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "貓侍"
+    ]
+  },
+  {
+    "id": "M00130",
+    "title": "Whiskas 貓砂 礦物結團型 10L",
+    "brand": "Whiskas",
+    "price": 990,
+    "originalPrice": 1479,
+    "discountTag": null,
+    "badges": [
+      "新品上市"
+    ],
+    "imageSeed": "pets-3",
+    "rating": 5.0,
+    "reviewCount": 637,
+    "soldCount": 1667,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "Whiskas"
+    ]
+  },
+  {
+    "id": "M00131",
+    "title": "毛孩村 寵物自動飲水機",
+    "brand": "毛孩村",
+    "price": 299,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "滿千折百",
+      "限時優惠",
+      "出貨快"
+    ],
+    "imageSeed": "pets-4",
+    "rating": 4.0,
+    "reviewCount": 2561,
+    "soldCount": null,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "毛孩村"
+    ]
+  },
+  {
+    "id": "M00132",
+    "title": "Royal Canin 寵物外出提籠",
+    "brand": "Royal Canin",
+    "price": 299,
+    "originalPrice": 434,
+    "discountTag": "限時優惠",
+    "badges": [
+      "口碑熱銷"
+    ],
+    "imageSeed": "pets-5",
+    "rating": 4.5,
+    "reviewCount": 1841,
+    "soldCount": 3928,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "Royal Canin"
+    ]
+  },
+  {
+    "id": "M00133",
+    "title": "Pedigree 貓砂 礦物結團型 10L",
+    "brand": "Pedigree",
+    "price": 2990,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "口碑熱銷",
+      "出貨快",
+      "買一送一"
+    ],
+    "imageSeed": "pets-6",
+    "rating": 4.7,
+    "reviewCount": 2062,
+    "soldCount": 2665,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "Pedigree"
+    ]
+  },
+  {
+    "id": "M00134",
+    "title": "Royal Canin 寵物自動飲水機",
+    "brand": "Royal Canin",
+    "price": 599,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "口碑熱銷"
+    ],
+    "imageSeed": "pets-7",
+    "rating": 4.8,
+    "reviewCount": 2274,
+    "soldCount": null,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "Royal Canin"
+    ]
+  },
+  {
+    "id": "M00135",
+    "title": "貓侍 寵物自動飲水機",
+    "brand": "貓侍",
+    "price": 490,
+    "originalPrice": 731,
+    "discountTag": null,
+    "badges": [
+      "口碑熱銷",
+      "免運"
+    ],
+    "imageSeed": "pets-8",
+    "rating": 4.0,
+    "reviewCount": 1794,
+    "soldCount": 3647,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "貓侍"
+    ]
+  },
+  {
+    "id": "M00136",
+    "title": "Whiskas 成犬專用飼料 5kg",
+    "brand": "Whiskas",
+    "price": 5990,
+    "originalPrice": 8241,
+    "discountTag": null,
+    "badges": [
+      "限時優惠"
+    ],
+    "imageSeed": "pets-9",
+    "rating": 5.0,
+    "reviewCount": 1538,
+    "soldCount": 5231,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "Whiskas"
+    ]
+  },
+  {
+    "id": "M00137",
+    "title": "貓侍 寵物潔牙骨 10入",
+    "brand": "貓侍",
+    "price": 599,
+    "originalPrice": 766,
+    "discountTag": "限時優惠",
+    "badges": [
+      "滿千折百",
+      "口碑熱銷"
+    ],
+    "imageSeed": "pets-10",
+    "rating": 4.3,
+    "reviewCount": 24,
+    "soldCount": null,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "貓侍"
+    ]
+  },
+  {
+    "id": "M00138",
+    "title": "Royal Canin 貓砂 礦物結團型 10L",
+    "brand": "Royal Canin",
+    "price": 15900,
+    "originalPrice": null,
+    "discountTag": null,
+    "badges": [
+      "免運",
+      "限時優惠",
+      "momoshop獨家"
+    ],
+    "imageSeed": "pets-11",
+    "rating": 4.7,
+    "reviewCount": 976,
+    "soldCount": 792,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "Royal Canin"
+    ]
+  },
+  {
+    "id": "M00139",
+    "title": "Royal Canin 寵物外出提籠",
+    "brand": "Royal Canin",
+    "price": 7990,
+    "originalPrice": 12196,
+    "discountTag": "限時優惠",
+    "badges": [
+      "出貨快",
+      "免運"
+    ],
+    "imageSeed": "pets-12",
+    "rating": 3.8,
+    "reviewCount": 2113,
+    "soldCount": 2362,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "Royal Canin"
+    ]
+  },
+  {
+    "id": "M00140",
+    "title": "寵物魔法 寵物自動飲水機",
+    "brand": "寵物魔法",
+    "price": 2990,
+    "originalPrice": 3998,
+    "discountTag": null,
+    "badges": [
+      "momoshop獨家",
+      "免運",
+      "momo自營"
+    ],
+    "imageSeed": "pets-13",
+    "rating": 3.9,
+    "reviewCount": 2157,
+    "soldCount": 8326,
+    "category": "pets",
+    "tags": [
+      "pets",
+      "寵物魔法"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  { "id": "home-appliance", "name": "家電", "icon": "🔌" },
+  { "id": "beauty", "name": "美妝保養", "icon": "💄" },
+  { "id": "food", "name": "食品飲料", "icon": "🍱" },
+  { "id": "fashion", "name": "時尚服飾", "icon": "👗" },
+  { "id": "digital", "name": "3C數位", "icon": "📱" },
+  { "id": "home-living", "name": "居家生活", "icon": "🛋️" },
+  { "id": "mom-baby", "name": "母嬰用品", "icon": "🍼" },
+  { "id": "sports", "name": "運動戶外", "icon": "🏃" },
+  { "id": "books", "name": "書籍文具", "icon": "📚" },
+  { "id": "pets", "name": "寵物用品", "icon": "🐾" }
+]
