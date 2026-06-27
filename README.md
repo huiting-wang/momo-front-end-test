@@ -23,7 +23,7 @@ node .output/server/index.mjs   # 啟動 production server
 | `/search` | 搜尋結果頁：篩選 + 排序 + 分頁 | SSR (初次) + CSR (互動) |
 | `/goods/[id]` | 商品詳情頁 | SSR |
 
-完整決策理由見 [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md)。
+AI Agent 決策見 [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md)。
 
 ## 文件導覽
 
