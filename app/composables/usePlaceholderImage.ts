@@ -14,6 +14,12 @@ const palette = [
   ['#f8e4ff', '#9c36b5'],
 ]
 
+/**
+ * 將字串 seed 雜湊為穩定的非負整數，用於從色盤中固定挑選顏色。
+ *
+ * @param seed - 任意字串（通常為商品 ID 或名稱）
+ * @returns 對應的 32-bit 無號整數
+ */
 function hashSeed(seed: string): number {
   let hash = 0
   for (let i = 0; i < seed.length; i++) {
@@ -22,7 +28,20 @@ function hashSeed(seed: string): number {
   return hash
 }
 
+/**
+ * 提供純前端 SVG 佔位圖生成工具，不依賴任何外部服務。
+ *
+ * @returns `getImageUrl` 函式，可依 seed 字串產生穩定的 SVG data URI
+ */
 export function usePlaceholderImage() {
+  /**
+   * 依 seed 字串生成 SVG 佔位圖的 data URI。
+   * 相同的 seed 永遠產生相同的顏色與縮寫文字。
+   *
+   * @param seed - 用來決定顏色與預設縮寫的字串（通常為商品 ID）
+   * @param label - 顯示在圖片上的文字；若省略則取 `seed` 前兩字元
+   * @returns `data:image/svg+xml;utf8,...` 格式的 data URI
+   */
   function getImageUrl(seed: string, label?: string): string {
     const hash = hashSeed(seed)
     const colorPair = palette[hash % palette.length] ?? palette[0]!

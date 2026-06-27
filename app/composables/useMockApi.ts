@@ -33,21 +33,44 @@ function delay(ms = 150) {
  * pagination、async），降低未來切換成真實後端的改動成本。
  */
 export function useMockApi() {
+  /**
+   * 取得所有商品分類。
+   *
+   * @returns 分類陣列
+   */
   async function getCategories(): Promise<Category[]> {
     await delay(50)
     return allCategories
   }
 
+  /**
+   * 取得首頁輪播 Banner 清單。
+   *
+   * @returns Banner 陣列
+   */
   async function getBanners(): Promise<Banner[]> {
     await delay(80)
     return allBanners
   }
 
+  /**
+   * 依 ID 取得單一商品。
+   *
+   * @param id - 商品 ID
+   * @returns 對應商品；若不存在則回傳 `null`
+   */
   async function getProductById(id: string): Promise<Product | null> {
     await delay(120)
     return allProducts.find((p) => p.id === id) ?? null
   }
 
+  /**
+   * 取得與指定商品同分類的相關商品（排除自身）。
+   *
+   * @param product - 基準商品
+   * @param limit - 最多回傳數量，預設 8
+   * @returns 相關商品陣列
+   */
   async function getRelatedProducts(product: Product, limit = 8): Promise<Product[]> {
     await delay(120)
     return allProducts
@@ -55,11 +78,23 @@ export function useMockApi() {
       .slice(0, limit)
   }
 
+  /**
+   * 取得指定分類的商品清單。
+   *
+   * @param categoryId - 分類 ID
+   * @param limit - 最多回傳數量，預設 10
+   * @returns 商品陣列
+   */
   async function getProductsByCategory(categoryId: string, limit = 10): Promise<Product[]> {
     await delay(100)
     return allProducts.filter((p) => p.category === categoryId).slice(0, limit)
   }
 
+  /**
+   * 取得首頁精選輪播資料，每個分類最多附帶 10 筆商品，取前 5 個分類。
+   *
+   * @returns 分類與其商品的配對陣列
+   */
   async function getFeaturedCarousel(): Promise<{ category: Category; products: Product[] }[]> {
     await delay(150)
     return allCategories.slice(0, 5).map((cat) => ({
@@ -68,6 +103,12 @@ export function useMockApi() {
     }))
   }
 
+  /**
+   * 全文搜尋商品，支援關鍵字、分類篩選、排序與分頁。
+   *
+   * @param params - 搜尋參數，包含 `q`（關鍵字）、`category`、`sort`、`page`、`pageSize`
+   * @returns 分頁搜尋結果，包含 `items`、`total`、`page`、`pageSize`
+   */
   async function search(params: SearchParams): Promise<SearchResult> {
     await delay(200)
     let results = [...allProducts]
@@ -112,6 +153,12 @@ export function useMockApi() {
     return { items, total, page, pageSize }
   }
 
+  /**
+   * 依 ID 陣列批次取得商品，忽略不存在的 ID。
+   *
+   * @param ids - 商品 ID 陣列
+   * @returns 找到的商品陣列，順序與 `ids` 一致
+   */
   async function getProductsByIds(ids: string[]): Promise<Product[]> {
     await delay(100)
     return ids

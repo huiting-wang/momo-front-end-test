@@ -9,6 +9,13 @@ let hideTimer: ReturnType<typeof setTimeout> | undefined
  * 即可）。AppToast.vue 負責渲染，這裡只管狀態。
  */
 export function useToast() {
+  /**
+   * 顯示 toast 通知，並在 `duration` 毫秒後自動隱藏。
+   * 若上一則通知尚未消失，會先取消其計時器再重新計時。
+   *
+   * @param message - 要顯示的訊息文字
+   * @param duration - 自動隱藏的延遲毫秒數，預設 2200
+   */
   function show(message: string, duration = 2200) {
     state.message = message
     state.visible = true

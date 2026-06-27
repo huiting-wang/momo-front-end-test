@@ -1,3 +1,8 @@
+/**
+ * 提供商品價格相關的格式化工具函式。
+ *
+ * @returns `formatPrice`、`discountPercent`、`formatSoldCount` 三個工具函式
+ */
 export function useFormatPrice() {
   /**
    * 格式化價格，使用台灣地區的數字格式
